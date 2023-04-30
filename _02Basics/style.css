@@ -1,0 +1,16 @@
+body {
+    font-family: monospace;
+}
+
+#product-overview {
+    background: grey;
+}
+
+.section-title {
+    color: azure;
+}
+
+h1 {
+    color: aquamarine;
+    font-family: sans-serif;
+}
